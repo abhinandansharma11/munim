@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/components/Art.tsx","./src/components/LangToggle.tsx","./src/components/Toast.tsx","./src/lib/api.ts","./src/lib/i18n.tsx","./src/lib/live.ts","./src/lib/voice.ts","./src/pages/Console.tsx","./src/pages/Join.tsx","./src/pages/Merchant.tsx","./src/pages/Rep.tsx","./src/pages/Soundbox.tsx","./src/pages/Start.tsx"],"version":"5.6.3"}
